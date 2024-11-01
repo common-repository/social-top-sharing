@@ -1,0 +1,7 @@
+.socialbookmarks_opt_edit{ border:#c0c0c0 1px solid; margin-top:25px; padding:15px; }
+.socialbookmarks_opt_edit p{ margin-bottom:15px; }
+.socialbookmarks_opt_edit p label{ width:150px; float:left; }
+
+/* Front end */
+#socialbookmark{ width:540px; }
+#socialbookmark p{ float:left; height:30px;}
